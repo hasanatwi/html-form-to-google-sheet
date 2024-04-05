@@ -16,7 +16,7 @@ This example shows how to set up a mailing list form that sends data to Google S
 
 ### 2. Create a Google App Script
 
-<img src="https://sheetmonkey.io/img/guides/1-app-script.gif?ts=1" width="450" />
+<img src="https://smmallcdn.net/levi/1712349215769/68747470733a2f2f73686565746d6f6e6b65792e696f2f696d672f6775696465732f312d6170702d7363726970742e6769663f74733d31.gif?ts=1" width="450" />
 
 Click on `Extensions -> Apps Script`. This will open new Google Script. Rename it to something like _"Mailing List"_.
 
@@ -109,7 +109,7 @@ Then select "Save".
 
 Now your project is ready to publish. Select the `Deploy` button and `New Deployment` from the drop-down.
 
-<img src="https://sheetmonkey.io/img/guides/9-deploy.gif" width="450" />
+<img src="https://smmallcdn.net/levi/1712349308531/9-deploy.gif" width="450" />
 
 Click the "Select type" icon and select `Web app`. 
 
@@ -140,7 +140,7 @@ Create a HTML form like the following, replacing `YOUR_WEBAPP_URL` with the URL 
 
 Now when you submit this form from any location, the data will be saved in the Google Sheet. 🥳
 
-<img src="https://sheetmonkey.io/img/guides/10-working-form.gif" width="450" />
+<img src="https://smmallcdn.net/levi/1712349251133/68747470733a2f2f73686565746d6f6e6b65792e696f2f696d672f6775696465732f31302d776f726b696e672d666f726d2e676966.gif" width="450" />
 
 - **Please note:** The input names are _case sensitive_. They must match the same casing as the script. More here: https://github.com/levinunnink/html-form-to-google-sheet/issues/3#issuecomment-1054464935
 
